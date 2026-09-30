@@ -1,4 +1,3 @@
-"# atividade1-bcd"
 🗄️ Banco de Dados — bcd_segundoEx
 📋 Descrição
 
@@ -118,4 +117,4 @@ bcd_cliente
      │
      │ 1
      │
-bcd_produto 
+bcd_produto
