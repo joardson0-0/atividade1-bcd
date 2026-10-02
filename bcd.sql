@@ -27,13 +27,13 @@ CREATE TABLE bcd_venda (
 USE bcd_segundoEx;
 
 INSERT INTO bcd_cliente (nome_cliente, email_cliente, tel) VALUES
-("Takeo", "takeo@gmail.com", "9990128");
+("leo", "leo@gmail.com", "9999128");
 
 INSERT INTO bcd_cliente (nome_cliente, email_cliente, tel) VALUES
-("Julio", "julio@gmail.com", "124347");
+("Julio", "julio@gmail.com", "124365");
 
 INSERT INTO bcd_cliente (nome_cliente, email_cliente, tel) VALUES
-("Sayuri", "Sayuri@gmail.com", "641735");
+("joardson", "joardson@gmail.com", "663923");
 
 SELECT * FROM bcd_cliente;
 
